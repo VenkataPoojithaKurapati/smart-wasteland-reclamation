@@ -16,14 +16,9 @@ The solution shows:
 -  Optional "WatsonX Granite LLM" integration for sustainability & impact insights
 
 ## Project Structure
-├── notebook.ipynb          # Main Jupyter Notebook with all code 
-├── train.csv               # Training dataset 
-├── test.csv                # Testing dataset 
-├── sample_submission.csv   # Sample submission format 
-├── submission.csv          # Generated submission file 
-├── requirements.txt        # Dependencies 
-├── feature_importance.png  # Model feature importance plot 
-├── model_comparison.png    # Model comparison plot
+├── notebook.ipynb          # Main Jupyter Notebook with all code ├── train.csv               # Training dataset ├── test.csv                # Testing dataset 
+├── sample_submission.csv   # Sample submission format ├── submission.csv          # Generated submission file ├── requirements.txt        # Dependencies 
+├── feature_importance.png  # Model feature importance plot ├── model_comparison.png    # Model comparison plot
 
 ## Setup
 1. Install requirements:
